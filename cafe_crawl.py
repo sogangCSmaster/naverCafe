@@ -18,7 +18,7 @@ def crawler(id,password,cafe_address):
     #options.add_argument('window-size=1920x1080')
     #options.add_argument('disable-gpu')
 
-    #conn = psql.connect(host='localhost', db='news_crawl', user='tgisaturday', password='zkvpfkEp2#2#',charset='utf8')
+    #conn = psql.connect(host='localhost', db='', user='', password='',charset='utf8')
     #query = "REPLACE INTO news_total (seq_no,date,naver_link,original_link,sid,company,upload_date,title,text) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s);"
     #cur = conn.cursor()
 
